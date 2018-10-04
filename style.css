@@ -19,7 +19,7 @@ h1:hover{
 }
 
 .heart{
-  
+
 }
 
 h1 ~ p{
@@ -119,4 +119,7 @@ article:first-child{
 a{
   text-decoration: none;
   color: #42B48F
+}
+section{
+  width: 70%;
 }
